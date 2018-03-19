@@ -175,8 +175,7 @@ source:
     place: BP Downstream Chicago, IL, USA, Based out of Kolkata, India
     time: July 2004 - October, 2005.
     description: >
-                  The project integrates BP data from diverse business functions like Accounts and Controlling, Materials Movements and Orders, Sales and Deliveries and provides them with an enterprise-wide solution for reporting and analysis.
-BP Downstream started with the Development, Quality and the production servers running on Oracle DB and introduced the pre-prod Box for all stress testing in release 2. Custom enhancements for SD extractors including Billing / Delivery and their reconciliation through exception reporting and real time virtual providers were being used. ClearQuest was being used for all deliverables. In this project, Chris and her team implemented the entire BW Stats from scratch and build real time reports on the data load status for excel updates.
+                  The project integrates BP data from diverse business functions like Accounts and Controlling, Materials Movements and Orders, Sales and Deliveries and provides them with an enterprise-wide solution for reporting and analysis. BP Downstream started with the Development, Quality and the production servers running on Oracle DB and introduced the pre-prod Box for all stress testing in release 2. Custom enhancements for SD extractors including Billing / Delivery and their reconciliation through exception reporting and real time virtual providers were being used. ClearQuest was being used for all deliverables. In this project, Chris and her team implemented the entire BW Stats from scratch and build real time reports on the data load status for excel updates.
     description1: >
                   Providing new functionalities, BW stats, Enhancing existing functionalities.
     description2: >
