@@ -1,34 +1,37 @@
 name: Experience 
 
 source:
-  - prof: Senior Solution Director
-    place: HCL Technologies, The Netherlands
-    time: May, 2017 to Present
-    description: >
-                  Public/Private Cloud enablement, Microservices on immutable infrastructures, container standards/implementations for European conglomerates.
-                  Industry solution implementations for stacks span Banking, Financial services and Insurance, Supply Chain and manufacturing.
-                  Dwai also enables HPC/GPU immutable compute fabrics for customers across the world working on latest scientific computing and simulations including DNN toolkits for fast reinforcement learning.
+  - prof: SAP BO Frontend Consultant (Just BI Team)
+    place: Vodafone, The Netherlands 
+    time: Feb, 2015 - July, 2015 and May, 2012- August, 2012.
 
-  - prof: Cloud Solution Architect
-    place: Microsoft B.V., The Netherlands
-    time: January, 2016 to April, 2017
     description: >
-                  Created and maintained Azure github repositories for K80 (GK210 Duo) GPU Compute Auto Linux clusters for CUDA non graphical apps.
-                  HPC Big computes RDMA/IB Auto linux clusters for Intel MPI on Azure.
-                  These are immutable, intelligent compute grids with nvdia docker options and configurable soft RAID0.
-                  Created and maintained Azure github repository for M60 Graphical 3D Apps over PCoIP with latest Windows NVIDIA Azure Skus.
-                  Maintained the Docker for Azure with OMS (Operational Management Suite) repository  with 17.0x-CE for monitoring the dockerized cloud infrastructure and first put up the automated Docker Datacenter on the Engine 1.13.x Private beta on a public cloud (Azure).
-                  Explore the repositories in the github media link with the pinned repositories @ https://github.com/dwaiba
+                  Part of Just-BI team providing solutions for front end reporting. Handling all changes related to Dashboards.
+                  Also, involved in Gap Analysis of different mobile front-end tools including Design Studio and Dashboards and proposing solutions.
+                  Along with assisting the Business to choose the right reporting tool she also worked on Vodafone’s management information systems, to study the data and build the After Sales Dashboard, working mainly with the web services in the backend and providing reporting solutions.
 
-  - prof: Principal, Solution Architecture
-    place: Exact Software, The Netherlands
-    time: August, 2015 to November, 2015
-    description: R&D on future enabling Exact product portfolio.
+  - prof: SAP BI Consultant (Just BI Team)
+    place: D.E Master Blenders, The Netherlands
+    time: Sept, 2014 - Jan, 2015 and March, 2012 - June, 2013.
+    description: >
+                  Jacobs Douw Egberts, as it is known today, is a 1753 founded coffee company having its headquarters in Utrecht Netherlands.
+                  Chris has worked with them as part of Just-BI in different times for long periods to support their business and run through successful go-lives.
+
+  - prof: SAP BO Frontend Consultant (Just BI Team) 
+    place: Shell, The Hague, The Netherlands
+    time: Sept 2013 - Jan 14.
+    description: >
+		  As a front-end consultant, was part of a very dynamic front end team in Shell assisting in rebuilding of all MI Business critical reports into Dashboards.
+		  Worked on the dashboard designs with the reporting team within Shell gathering information and data validation check with legacy systems and SAP Operational system.
+                  involved in ad hoc build of the SAP Analytics report for the business.
   
-  - prof: Senior Consultant
-    place: Enable-U B.V., The Netherlands
-    time: February 2013 to July, 2015
-    description: Governance, Integration, Security, Appliances, Registry, Cloud, API management, product dev, Nederlandse overheid (Dutch Government).
+  - prof: SAP BI Consultant (Just BI Team)
+    place: Sara Lee, Utrecht, The Netherlands
+    time: Jan 2011 - September 2011.
+    description: >
+		  Chris has been with DEMB for some time. She started with the Just-BI team for the SAP BI Implementation within the Sfinx dismissal project.
+		  Also, worked on SAP IP Module for Planning related requirements. During this time, she worked on the planning data entry by building reports for SAP IP screens.
+                  he also implemented various validation checks in backend (ABAP) and was a part of the successful UATs and further training of the user groups.
 
   - prof: Domain Solution Architect
     place: Canon Europa N.V., The Netherlands
