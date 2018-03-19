@@ -1,13 +1,13 @@
-#name: Initiatives
-#source:
-  #- title: Graduate Summer Student
-   # place: University of Glasgow, UK
-   # date: 2013
-   # type: courses
-   # description: Nec et duis iriure temporibus, ullum adolescens eam ea.
+name: Accolades
+source:
+  - title: Top Talent Award
+    place: IBM India
+    date: 2007 and 2008
+    type: accloades
+    description: Acknowledged by IBM INDIA as one of the best performers (Top Rater) across the organization for year 2008, 2007.
 
-  #- title: Student Volunteer
-   # place: British RedCross, Glasgow, UK
-   # date: 2013
-   # type: fundraiser
-   # description: Lorem adipiscing ei eam, eros conceptam maiestatis ne sea.
+  - title: Real Time Stats Reporting in BW.
+    place: IBM India
+    date: 2005
+    type: originalwork
+    description: ICM Submission for original work on - Real Time Stats Reporting in BW -  2005.
