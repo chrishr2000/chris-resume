@@ -16,7 +16,7 @@ theme = "hugo-vitae"
   google_maps = "https://www.google.com/maps/place/Woudlaan+Zoetermeer"
   city = "Zoetermeer"
   country = "The Netherlands"
-  website = "Download the resume pdf"
+  #website = "Download the resume pdf"
   website_full = "http://chris.cloudgear.io/img/chris.pdf"
 
   # Custom assets can be linked with their paths relative to static/
