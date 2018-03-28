@@ -5,18 +5,18 @@ source:
     place: Vodafone, The Netherlands 
     time: Feb, 2015 - July, 2015 and May, 2012- August, 2012.
     description: >
-                  Part of Just-BI team providing solutions for front end reporting. Handling all changes related to Dashboards.
+                  Part of Just-BI team providing solutions for front end reporting. Handling changes related to Dashboards.
                   Also, involved in Gap Analysis of different mobile front-end tools including Design Studio and Dashboards and proposing solutions. The key Highlights and responsibilities were the following:
     description1: >
                   Worked mostly in BW 7.3, BO.
     description2: >
-                  Working with the Business to analyze and propose the reporting tool in BO.
+                  Worked with the Business to analyze and propose the reporting tool in BO.
     description3: >
                   Maintaining and supporting existing Dashboards.
     description4: >
-                  Building custom based web services for front end dashboard components.
+                  Worked with web services for front end dashboard components.
     description5: >
-                  Working extensively in business transformation layer in BI and implementing the same.
+                  Worked in the ETL process in BI.
                                
   - prof: SAP BI Consultant (Just BI Team)
     place: D.E Master Blenders, The Netherlands
@@ -49,9 +49,9 @@ source:
     description3: >
                   Data Validation for a successful go-live.
     description4: >
-                  Continued Dev Support.
+                  Continued Development Support.
     description5: >
-                  Post Go-Live knowledge transfer.
+    
                   
   - prof: SAP BI Consultant (Just BI Team)
     place: Sara Lee, Utrecht, The Netherlands
@@ -59,17 +59,17 @@ source:
     description: >
                   Chris has been with DEMB for some time. She started with the Just-BI team for the SAP BI Implementation within the Sfinx dismissal project.
                   Also, worked on SAP IP Module for Planning related requirements. During this time, she worked on the planning data entry by building reports for SAP IP screens.
-                  She also implemented various validation checks in backend (ABAP) and was a part of the successful UATs and further training of the user groups.
+                  She also implemented various validation checks in backend (ABAP) and was a part of the successful UATs.
     description1: >
-                  Design and creation of IP screens for the business.
+                  Creation of IP screens for the business.
     description2: >
                   Supporting the front-end Tools mainly Dashboard and application for visual data validation and checks.
     description3: >
                   Gap analysis for dismissal projects and impact measurement.
     description4: >
-                  Dev Support.
+                  Development Support.
     description5: >
-                  User Training Material writeup and training the users.
+ 
 
   - prof: SAP BI Consultant (Just BI Team)
     place: Al-Futtaim Motors (UAE), Based out of The Netherlands.
@@ -83,7 +83,7 @@ source:
     description3: >
                   Requirements Analysis.
     description4: >
-                  Dev Support.
+                  Development Support.
     description5: >
                   Process Chains.
 
